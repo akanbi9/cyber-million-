@@ -10,10 +10,8 @@
 im reading on fundamentals of cyber security and i 'am eager to do the required assessment.
 
 ## tools used 
-1. virtual machine.
-2. Kalli Linux.
-3. OWASP Juice Shop.
-4. localhost:3000
+1.command prompt
+
 
 | Asset                          | Importance | What happens if compromised?                              |
 | ------------------------------ | ---------- | --------------------------------------------------------- |
