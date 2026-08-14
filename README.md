@@ -32,3 +32,15 @@ im reading on fundamentals of cyber security and i 'am eager to do the required 
 [Windows System Information:]
 
 The [systeminfo] command was used to collect basic information about the test endpoint. This demonstrates practical identification of an endpoint that would form part of an organization's asset inventory.
+
+## Security Control
+
+1. MFA, strong passwords.
+
+2. firewall, 
+
+3. Network segmentation, VPN
+
+4. Security awareness training.
+
+5. 
