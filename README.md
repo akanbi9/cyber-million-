@@ -27,3 +27,5 @@ im reading on fundamentals of cyber security and i 'am eager to do the required 
 | Remote-worker accounts/devices | High       | Compromised remote access could expose internal resources |
 
 
+Evidence 1 — Windows System Information:
+The [systeminfo] command was used to collect basic information about the test endpoint. This demonstrates practical identification of an endpoint that would form part of an organization's asset inventory.
